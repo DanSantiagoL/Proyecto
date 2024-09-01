@@ -17,20 +17,20 @@ Este proyecto es un sistema integral desarrollado siguiendo el patrón Modelo-Vi
 ## Vistas
 > Login
 
-![Login](captures/Login.gif)
+![Login](gifs/Login.gif)
 
 > Dashboard
 
-![Dashboard](captures/Dashboard.gif)
+![Dashboard](gifs/Dashboard.gif)
 
 > Uso del modulo
 
-![UsoModulo](captures/UsoModulo.gif)
+![UsoModulo](gifs/UsoModulo.gif)
 
 > Actualización de datos
 
-![Modulo productos](captures/CambioDatos.gif)
+![Modulo productos](gifs/CambioDatos.gif)
 
 > Diagrama Entidad-Relacion
 
-![Diagrama](captures/diagrama.png)
+![Diagrama](gifs/diagrama.png)
