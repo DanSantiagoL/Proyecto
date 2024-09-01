@@ -14,24 +14,23 @@ Este proyecto es un sistema integral desarrollado siguiendo el patrón Modelo-Vi
 - JasperReports: Para la generación de informes y reportes personalizados.
 - MySQL: Base de datos relacional utilizada para almacenar y recuperar datos.
 
-## Capturas
-![Login](captures/cap1.png)
+## Vistas
 > Login
 
-![Dashboard](captures/cap2.png)
+![Login](captures/Login.gif)
+
 > Dashboard
 
-![Dark Mode](captures/cap3.png)
-> Dark Mode y Sidebar desplegada
+![Dashboard](captures/Dashboard.gif)
 
-![Modulo productos](captures/cap4.png)
-> Consulta de modulo productos
+> Uso del modulo
 
-![Actualizar Orden](captures/cap5.png)
-> Modulo para actualizar orden
+![UsoModulo](captures/UsoModulo.gif)
 
-![Perfil](captures/cap6.png)
-> Perfil
+> Actualización de datos
+
+![Modulo productos](captures/CambioDatos.gif)
+
+> Diagrama Entidad-Relacion
 
 ![Diagrama](captures/diagrama.png)
-> Diagrama Entidad-Relación
